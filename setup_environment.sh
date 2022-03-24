@@ -1,5 +1,3 @@
-conda create -n nlp_lss python=3.8
-conda activate nlp_lss
 
 pip install spacy==3.2.2
 pip install pandas==1.4.1
@@ -11,9 +9,9 @@ pip install matplotlib==3.5.1
 pip install spacytextblob
 pip install lxml==4.8.0
 pip install transformers[torch]
-pip install unidecode==2.8
+pip install unidecode==2.8 # could not find version that satisfies requirement
 pip install seaborn==0.11.2
-pip install sklearn==0.24.1
+pip install sklearn==0.24.1 # could not find version that satisfies requirement
 pip install wordcloud==1.8.1
 pip install fightin-words==1.0.5
 pip install eli5==0.11.0
