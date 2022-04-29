@@ -156,6 +156,7 @@ cython_debug/
 **.csv*
 **.txt*
 **tar.gz
+**.zip
 
 scale*data**
 scale_whole_review**
