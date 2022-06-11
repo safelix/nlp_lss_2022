@@ -160,3 +160,6 @@ cython_debug/
 
 scale*data**
 scale_whole_review**
+scibert_finetuned_on_scifact
+data
+._data
